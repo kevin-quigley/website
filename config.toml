@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Kevin Quigley's Website"
+theme = "hugo-theme-air"
+sectionPagesMenu = "main"
+[author]
+  name = "Kevin"
+[params]
+  author = "Kevin Quigley"
+[markup.goldmark.renderer]
+unsafe= true
