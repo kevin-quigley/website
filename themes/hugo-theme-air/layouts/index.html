@@ -1,0 +1,65 @@
+{{ partial "header.html" . }}
+
+{{if .Site.Params.cover}}
+<header class="main-header " style="background-image: url({{.Site.BaseURL}}{{.Site.Params.cover}})">
+
+{{else}}
+<header class="main-header no-cover">
+{{end}}
+    
+
+    <nav class="main-nav overlay clearfix">
+        {{ if .Site.Params.logo }}
+            <a class="blog-logo" href="{{ .Permalink }}"><img src="{{ .Site.BaseURL }}{{.Site.Params.logo}}" alt="Blog Logo" /></a>
+        {{end}}
+        
+        {{ if .Site.Menus.main }}
+            <nav class="sidebar-nav">
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+                {{ end }}
+            </nav>
+        {{else}}
+            {{ if .Site.Params.RSSLink}}
+              <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;Subscribe</a>
+            {{else}}
+              <a class="menu-button icon-feed" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">&nbsp;&nbsp;Subscribe</a>
+            {{end}}
+        {{end}}
+       
+    </nav>
+<div class="vertical">
+        <div class="main-header-content inner">
+            <h1 class="page-title">
+              <a class="btn-bootstrap-2 title-scroll" href="#content">{{ .Site.Title }}</a>
+          </h1>
+          <h2 class="page-description">{{ .Site.Params.description }}</h2>
+        </div>
+</div>
+    <a class="scroll-down icon-arrow-left" href="#content"><span class="hidden">Scroll Down</span></a>
+</header>
+
+<main id="content" class="content" role="main">
+    <!-- {{ $pages := .Pages }}
+    {{ if .IsHome }}
+    {{ $pages = .Site.RegularPages }}
+    {{ end }}
+    {{ $paginator := .Paginate $pages }} -->
+    <!-- {{ $paginator := .Paginate (where .Data.Pages "Section" "post") }} -->
+    
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+
+    <div class="extra-pagination inner">
+        {{ partial "pagination.html" $paginator }}
+    </div>
+
+    {{ range $index, $page := (where .Site.RegularPages "Type" "post") }}
+        {{ .Render "li" }}
+    {{ end }}
+
+    {{ partial "pagination.html" $paginator }}
+
+</main>
+
+{{ partial "footer.html" . }}
