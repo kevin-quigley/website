@@ -1,0 +1,1 @@
+hugo server --baseUrl="https://kevin-quigley-website-pj7xxr5jj3rqj4-1313.githubpreview.dev/" --appendPort=false
