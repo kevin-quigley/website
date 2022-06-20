@@ -1,4 +1,4 @@
-baseURL = 'https://kevinquigley.com/'
+baseURL = 'https://kevin-quigley.github.io/website/'
 languageCode = 'en-us'
 title = "Kevin Quigley's Website"
 theme = "hugo-theme-air"
