@@ -39,4 +39,6 @@ layout = "single"
 <img src="" width="200" style="margin-left: 3rem;">
 </img>
 </a>
+sam harris
+add in favorites (free will)/dopamine
 </div>

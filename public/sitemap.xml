@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/assorted/</loc>
+    <loc>https://kevin-quigley.github.io/website/assorted/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/blog/</loc>
+    <loc>https://kevin-quigley.github.io/website/tags/blog/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/books/</loc>
+    <loc>https://kevin-quigley.github.io/website/books/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/film/</loc>
+    <loc>https://kevin-quigley.github.io/website/film/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://kevin-quigley.github.io/website/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://kevin-quigley.github.io/website/post/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/questions/</loc>
+    <loc>https://kevin-quigley.github.io/website/questions/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://kevin-quigley.github.io/website/tags/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/test/</loc>
+    <loc>https://kevin-quigley.github.io/website/tags/test/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/posttest/</loc>
+    <loc>https://kevin-quigley.github.io/website/post/posttest/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://kevin-quigley.github.io/website/categories/</loc>
   </url>
 </urlset>
