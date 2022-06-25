@@ -10,7 +10,7 @@ share = false
 title= ""
 +++
 
-```bash
+```
 2021 Yearly Update
 ```
 <h2>Recap</h2>
