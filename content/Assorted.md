@@ -27,8 +27,8 @@ layout = "single"
 <img src="https://user-images.githubusercontent.com/77201918/174677854-07488ef0-728b-416c-b7ea-d5d34e25ccde.png" width="400" style="margin-left: 3rem;">
 </img>
 </a>
-<a href="">
-<img src="" width="200" style="margin-left: 3rem;">
+<a href="https://www.samharris.org/podcasts/making-sense-episodes/241-final-thoughts-on-free-will">
+<img src="https://user-images.githubusercontent.com/77201918/175778237-2372627e-a3a6-4b99-a5fd-e523dfe41317.png" width="200" style="margin-left: 3rem;">
 </img>
 </a>
 <a href="">
@@ -39,6 +39,4 @@ layout = "single"
 <img src="" width="200" style="margin-left: 3rem;">
 </img>
 </a>
-sam harris
-add in favorites (free will)/dopamine
 </div>
