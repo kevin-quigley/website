@@ -10,6 +10,12 @@ share = false
 title= ""
 +++
 
+<!-- 
+TODO's
+Make header smaller
+Add 2 posts
+Make the posts small chunks on homepage -->
+
 ```
 2021 Yearly Update
 ```
