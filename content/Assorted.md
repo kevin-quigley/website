@@ -24,7 +24,7 @@ layout = "single"
 </img>
 </a>
 <a href="https://www.acquired.fm/">
-<img src="https://user-images.githubusercontent.com/77201918/174677854-07488ef0-728b-416c-b7ea-d5d34e25ccde.png" width="200" style="margin-left: 3rem;">
+<img src="https://user-images.githubusercontent.com/77201918/174677854-07488ef0-728b-416c-b7ea-d5d34e25ccde.png" width="300" style="margin-left: 3rem;">
 </img>
 </a>
 <a href="https://www.samharris.org/podcasts/making-sense-episodes/241-final-thoughts-on-free-will">
