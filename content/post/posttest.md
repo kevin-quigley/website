@@ -15,7 +15,7 @@ TODO's
 Make header smaller
 Add 2 posts
 Make the posts small chunks on homepage -->
-
+<!-- 
 ```
 2021 Yearly Update
 ```
@@ -37,3 +37,4 @@ Plenty has been written about the importance of company culture and for good rea
 Technology will continue to shape our shared future, and I hope to play a direct role in it, while empowering others to do the same. How can I fulfill my potential? How can I maximize my impact on other people? For now it’s accomplishing Sourcegraph’s mission, creating a world so everyone can code.
 
 <em>“You can't ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving."</em> - Paul Kalanithi, When Breath Becomes Air
+-->
