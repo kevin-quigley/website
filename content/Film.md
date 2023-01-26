@@ -290,7 +290,7 @@ layout = "single"
 </a>
 </a>
 <a href="https://www.imdb.com/title/tt6333098/?ref_=tt_mv_desc">
-<img src="https://m.media-amazon.com/images/I/91KwasehsHL._AC_UY436_FMwebp_QL65_.jpg" width="200" style="margin-left: 3rem;">
+<img src="https://user-images.githubusercontent.com/77201918/214963858-dfcc473c-4560-4c14-a53e-89f194df0cd0.png" width="200" style="margin-left: 3rem;">
 </img>
 </a>
 </div>
