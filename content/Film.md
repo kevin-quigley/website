@@ -295,7 +295,7 @@ layout = "single"
 </a>
 </a>
 <a href="https://www.imdb.com/title/tt9253284/?ref_=fn_al_tt_1">
-<img src="https://user-images.githubusercontent.com/77201918/214998509-7508e766-c639-4946-b448-17bd9d29d25d.png" width="200" style="margin-left: 3rem;">
+<img src="https://user-images.githubusercontent.com/77201918/214999099-e47fa32b-5080-4af1-985f-2e9982ee430d.png" width="200" style="margin-left: 3rem;">
 </img>
 </a>
 </div>
